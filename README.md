@@ -26,4 +26,5 @@
 ---
 
 ## 📫 Let's Connect
-[![[LinkedIn](https://www.linkedin.com/in/devansh-kumar-b2b972261/)](https://img.shields.io/badge/-LinkedIn-0077B5)
+[![[LinkedIn](https://www.linkedin.com/in/devansh-kumar-b2b972261/)](https://img.shields.io/badge/-LinkedIn-0077B5
+
