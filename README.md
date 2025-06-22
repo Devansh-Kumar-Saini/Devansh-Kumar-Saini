@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Devansh Kumar
 
-🎓 B.Tech CSE | 3rd Year Student @Amity University Punjab
-💻 Software Engineer | ML Enthusiast | Web Developer
-🛠️ Currently working on: NLP, Agentic AI, LLMs
+🎓 B.Tech CSE | 3rd Year Student @Amity University Punjab <br>
+💻 Software Engineer | ML Enthusiast | Web Developer <br>
+🛠️ Currently working on: NLP, Agentic AI, LLMs <br>
 
 
 ---
