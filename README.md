@@ -39,7 +39,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # </> LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/_Dev_04)
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/_Dev_04?ext=heatmap)
 
 
 
