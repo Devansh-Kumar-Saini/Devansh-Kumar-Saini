@@ -4,7 +4,6 @@
 💻 Software Engineer | ML Enthusiast | Web Developer <br>
 🛠️ Currently working on: NLP, Agentic AI, LLMs <br>
 
-
 ---
 
 ## 🧰 Languages & Tools
