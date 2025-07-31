@@ -13,7 +13,7 @@
 🛠️ Currently working on: NLP, Agentic AI, LLMs <br>
 
 ---
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AIML+%F0%9F%9A%80;NLP+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Agentic+AI+%F0%9F%8C%9F;Always+Learning+New+Technologies+%F0%9F%93%9A)](https://git.io/typing-svg)
 ---
 ## 🧰 Languages & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
