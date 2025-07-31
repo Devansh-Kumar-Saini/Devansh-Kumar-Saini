@@ -55,7 +55,10 @@
   ### 🐍 Watch My Contributions Get Eaten!
   
   ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-  
+
+---
+</div>
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
 </div>
 
 ---
