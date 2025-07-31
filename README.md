@@ -34,6 +34,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Devansh-Kumar-Saini&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Kumar-Saini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+<div align="center">
+  
+  ### 🐍 Watch My Contributions Get Eaten!
+  
+  ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💻 LeetCode Stats:
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/_Dev_04) -->
