@@ -13,7 +13,6 @@
 🛠️ Currently working on: NLP, Agentic AI, LLMs <br>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%F0%9F%A7%96;Deep+Learning+Explorer+%F0%9F%94%8E;NLP+Practitioner+%F0%9F%93%9A;Agentic+AI+Innovator+%F0%9F%A7%AA;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Technologies+%F0%9F%93%
 
 ---
 ## 🧰 Languages & Tools
