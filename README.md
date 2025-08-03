@@ -4,8 +4,6 @@
   
 </div>
 
-
-
 ## Hi there 👋 I'm Devansh Kumar
 
 🎓 B.Tech CSE | 4th Year Student @Amity University Punjab <br>
