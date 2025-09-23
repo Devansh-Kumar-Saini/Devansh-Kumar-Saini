@@ -3,6 +3,7 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Devansh%20Kumar&fontSize=90&fontAlign=50&fontAlignY=40&desc=AIML%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn)
   
 </div>
+
 ## Hi there 👋 I'm Devansh Kumar
 
 🎓 B.Tech CSE | 4th Year Student @Amity University Punjab <br>
