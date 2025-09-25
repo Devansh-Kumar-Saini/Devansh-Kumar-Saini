@@ -52,13 +52,13 @@
 
 <div align="center">
 
-### 🏰 Code Quest Adventure
+### 🚀 Mission Control
 
-![Adventure Map](https://your-custom-endpoint.vercel.app/api/adventure-map?user=Devansh-Kumar-Saini)
+![Rocket Progress](https://your-app.herokuapp.com/rocket-trajectory/user/Devansh-Kumar-Saini)
 
-**Level:** 15 **XP:** 2,450/3,000 ⚔️  
-**Current Quest:** Build a ML project 🧠  
-**Skills:** Python 🐍, React ⚛️, Docker 🐳
+**Fuel:** 78% ⛽ **Altitude:** 240 commits 🌌  
+**Next Milestone:** Moon Orbit 🎯  
+**Launch Streak:** 42 days 🔥
 
 </div>
 
