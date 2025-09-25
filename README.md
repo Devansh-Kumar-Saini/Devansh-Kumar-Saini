@@ -52,13 +52,16 @@
 
 <div align="center">
 
-### 🚀 Mission Control
+### 🌿 My Coding Garden
 
-![Rocket Progress](https://your-app.herokuapp.com/rocket-trajectory/user/Devansh-Kumar-Saini)
+![Garden Growth](https://your-garden-api.cyclic.app/garden-visualization/Devansh-Kumar-Saini)
 
-**Fuel:** 78% ⛽ **Altitude:** 240 commits 🌌  
-**Next Milestone:** Moon Orbit 🎯  
-**Launch Streak:** 42 days 🔥
+**Plants Growing:** 
+- 🌳 Main Project (85% grown)
+- 🌸 Learning React (60% grown)
+- 🍄 API Development (45% grown)
+
+**Watering Streak:** 30 days 💧
 
 </div>
 
