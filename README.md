@@ -54,12 +54,14 @@
 
 ### 🌿 My Coding Garden
 
-![Garden Growth](https://your-garden-api.cyclic.app/garden-visualization/Devansh-Kumar-Saini)
+![Garden Growth](https://github-readme-garden.vercel.app/api/garden?user=Devansh-Kumar-Saini&plants=5)
 
 **Plants Growing:** 
 - 🌳 Main Project (85% grown)
-- 🌸 Learning React (60% grown)
+- 🌸 Learning React (60% grown) 
 - 🍄 API Development (45% grown)
+- 🌱 Portfolio Website (30% grown)
+- 📚 Learning Node.js (20% grown)
 
 **Watering Streak:** 30 days 💧
 
