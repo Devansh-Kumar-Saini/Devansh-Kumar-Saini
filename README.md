@@ -51,9 +51,15 @@
 ---
 
 <div align="center">
-  
-  ### 🐍 Watch My Contributions Get Eaten!
-  
-  ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+### 🏰 Code Quest Adventure
+
+![Adventure Map](https://your-custom-endpoint.vercel.app/api/adventure-map?user=Devansh-Kumar-Saini)
+
+**Level:** 15 **XP:** 2,450/3,000 ⚔️  
+**Current Quest:** Build a ML project 🧠  
+**Skills:** Python 🐍, React ⚛️, Docker 🐳
+
+</div>
 
 ---
