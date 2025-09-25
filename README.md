@@ -51,20 +51,9 @@
 ---
 
 <div align="center">
-
-### 🌿 My Coding Garden
-
-![Garden Growth](https://github-readme-garden.vercel.app/api/garden?user=Devansh-Kumar-Saini&plants=5)
-
-**Plants Growing:** 
-- 🌳 Main Project (85% grown)
-- 🌸 Learning React (60% grown) 
-- 🍄 API Development (45% grown)
-- 🌱 Portfolio Website (30% grown)
-- 📚 Learning Node.js (20% grown)
-
-**Watering Streak:** 30 days 💧
-
-</div>
+  
+  ### 🐍 Watch My Contributions Get Eaten!
+  
+  ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
