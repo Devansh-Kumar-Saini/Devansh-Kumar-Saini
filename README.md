@@ -9,7 +9,11 @@
 🎓 B.Tech CSE | 4th Year Student @Amity University Punjab <br>
 💻 Software Engineer | ML Enthusiast | Web Developer <br>
 🛠️ Currently working on: NLP, Agentic AI, LLMs <br>
-
+<p align="center">
+  <a href="https://devwebport.vercel.app">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  </a>
+</p>
 ---
 ## 🧰 Languages & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
