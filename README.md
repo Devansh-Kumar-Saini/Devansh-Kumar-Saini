@@ -10,8 +10,8 @@
 💻 Software Engineer | ML Enthusiast | Web Developer <br>
 🛠️ Currently working on: NLP, Agentic AI, LLMs <br>
 <p align="center">
-  <a href="https://devwebport.vercel.app">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <a href="https://devwebport.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20My%20Portfolio-Visit%20Now-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 ---
