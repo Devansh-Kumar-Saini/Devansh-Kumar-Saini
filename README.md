@@ -45,13 +45,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/_Dev_04/)
 
 ---
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Devansh-Kumar-Saini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
-![](https://nirzak-streak-stats.vercel.app/?user=Devansh-Kumar-Saini&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Kumar-Saini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💻 LeetCode Stats:
