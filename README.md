@@ -11,7 +11,7 @@
 🛠️ Currently working on: NLP, Agentic AI, LLMs <br>
 
 <p align="center">
-  <a href="https://devwebport.vercel.app" target="_blank">
+  <a href="https://mydevportal.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20My%20Portfolio-Visit%20Now-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
