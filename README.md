@@ -6,8 +6,8 @@
 
 ## Hi there 👋 I'm Devansh Kumar
 
-💻 SDE-1 @ InfoStride
-🎓 B.Tech CSE-AIML Graduate '26 @ Amity University Punjab
+💼 SDE-1 @ InfoStride <br>
+🎓 B.Tech CSE-AIML Graduate '26 @ Amity University Punjab <br>
 💻 AIML Enthusiast | Full Stack Web Developer | CMS Developer <br>
 🛠️ Currently exploring:  Android Development, CMS Migration, AIML Integrations  <br>
 
