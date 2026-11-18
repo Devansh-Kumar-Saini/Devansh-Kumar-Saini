@@ -6,9 +6,10 @@
 
 ## Hi there 👋 I'm Devansh Kumar
 
-🎓 B.Tech CSE | 4th Year Student @Amity University Punjab <br>
-💻 Software Engineer | ML Enthusiast | Web Developer <br>
-🛠️ Currently working on: NLP, Agentic AI, LLMs <br>
+💻 SDE-1 @ InfoStride
+🎓 B.Tech CSE-AIML Graduate '26 @ Amity University Punjab
+💻 AIML Enthusiast | Full Stack Web Developer | CMS Developer <br>
+🛠️ Currently exploring:  Android Development, CMS Migration, AIML Integrations  <br>
 
 <p align="center">
   <a href="https://mydevportal.vercel.app/" target="_blank">
