@@ -44,18 +44,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-kumar-saini/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devanshkumarsaini@gmail.com)
 <!-- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/_Dev_04/) -->
----
-
 
 <!-- 
 # 💻 LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/_Dev_04?ext=heatmap)
 -->
-
 <div align="center">
   
   ### 🐍 Watch My Contributions Get Eaten!
   
   ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
